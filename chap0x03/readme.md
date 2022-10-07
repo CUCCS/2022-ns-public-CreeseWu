@@ -126,9 +126,8 @@ wireshark分析HTTP代理流量技巧：
 
 # 启动抓包
 
-使用wireshark进行抓包：
+使用wireshark进行抓包
 
-![](img/wireshark_init.png)
 
 此时使用主机访问`http://neixiangde.ren/`，使用过滤器`http.request.method eq GET`
 
